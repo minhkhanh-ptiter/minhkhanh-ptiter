@@ -106,5 +106,5 @@ Currently focused on **Full-Stack Web Development**, **Machine Learning**, and *
 ---
 
 <p align="center">
-  🧠 <i>Made with passion & coffee by <b>Khánh d Minh</b></i> ☕
+  🧠 <i>Made with passion & coffee by <b>Khánh Minh</b></i> ☕
 </p>

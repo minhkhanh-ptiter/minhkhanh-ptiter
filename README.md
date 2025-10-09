@@ -8,8 +8,7 @@
 
 <hr style="border: 2.5px solid #ffffff; border-radius:999px;">
 
-<h3>👾 About me</h3>
-<hr style="border: 1px solid #ffffff; opacity: 0.6;">
+<h2>👾 About me</h2>
 
 <p>
 I'm Nguyen Minh Khanh, a third-year student majoring in Information Technology (IT) at the Posts and Telecommunications Institute of Technology (PTIT). I'm passionate about exploring how to build effective software systems and am currently focused on strengthening my foundational knowledge in Object-Oriented Programming (OOP), Data Structures & Algorithms, and Web Application Development.
@@ -92,15 +91,22 @@ I'm Nguyen Minh Khanh, a third-year student majoring in Information Technology (
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=minhkhanh-ptiter&show_icons=true&theme=radical" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhkhanh-ptiter&layout=compact&theme=radical" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=minhkhanh-ptiter&show_icons=true&theme=algolia" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhkhanh-ptiter&layout=compact&theme=algolia" alt="Top languages" />
+</p>
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=minhkhanh-ptiter&theme=algolia&hide_border=true"
+    alt="GitHub Streak" />
 </p>
 
 ---
 
 ### 🏅 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=minhkhanh-ptiter&theme=onedark&no-frame=true&margin-w=10" alt="Trophies" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=minhkhanh-ptiter&theme=radical&no-frame=true&margin-w=10&row=1&column=9&title=MultiLanguage,Repositories,Stars,Followers,PullRequest,Experience,Commits,Issues,Reviews"
+    alt="GitHub Trophies - Radical" />
 </p>
 
 ---
@@ -113,7 +119,9 @@ I'm Nguyen Minh Khanh, a third-year student majoring in Information Technology (
 ---
 
 ### 💬 Random Dev Quote
-> “Code is like humor. When you have to explain it, it’s bad.” — *Cory House*
+<p align="center">
+  <img src="./quote_animated.svg" alt="Dev Quote" />
+</p>
 
 ---
 

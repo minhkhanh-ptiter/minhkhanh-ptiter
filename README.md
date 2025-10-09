@@ -55,6 +55,11 @@ I'm Nguyen Minh Khanh, a third-year student majoring in Information Technology (
   <a href="mailto:n23dccn165@student.ptithcm.edu.vn">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
   </a>
+    <!-- Discord -->
+  <a href="https://discord.com/users/1221071557292720241" title="Discord: hippohp">
+    <img alt="Discord"
+         src="https://img.shields.io/badge/Discord-hippohp-5865F2?logo=discord&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -133,5 +138,5 @@ I'm Nguyen Minh Khanh, a third-year student majoring in Information Technology (
 ---
 
 <p align="center">
-  🧠 <i>Made with passion & coffee by <b>MinhKhánh</b></i> ☕
+  <i>Made with ❤️ •  Minh Khanh</b></i> ☕
 </p>

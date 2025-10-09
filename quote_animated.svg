@@ -17,7 +17,7 @@
   <rect x="0" y="216" width="980" height="4" fill="url(#g)"/>
 
   <!-- Content group with animation (grow out in) -->
-  <g id="content" transform="translate(490,110) scale(0.94)" opacity="0">
+  <g id="content" transform="translate(490,110)" opacity="0">
     <!-- Opening quote -->
     <text x="-440" y="-18" font-family="Inter, Segoe UI, Roboto, Arial" font-size="30" fill="#7fe8ff">“</text>
 
@@ -36,8 +36,17 @@
     <text x="450" y="60" text-anchor="end" font-family="Inter, Segoe UI, Roboto, Arial" font-size="18" font-weight="600" fill="#ff4d8d">— Donald Knuth</text>
 
     <!-- Animations -->
-    <animate attributeName="opacity" from="0" to="1" dur="600ms" begin="0.05s" fill="freeze" />
+    <animate attributeName="opacity" from="0" to="1"
+             dur="300ms" begin="0.05s" fill="freeze" />
+      
     <animateTransform attributeName="transform" attributeType="XML" type="scale"
-                      additive="sum" from="0.94" to="1" dur="600ms" begin="0.05s" fill="freeze" />
+      additive="sum"
+      values="0.92;1.06;1.00"
+      keyTimes="0;0.6;1"
+      dur="900ms" begin="0.05s"
+      calcMode="spline"
+      keySplines=".2,.8,.2,1;.2,.8,.2,1"
+      fill="freeze" />
+
   </g>
 </svg>

@@ -1,41 +1,60 @@
 <!-- HEADER -->
-<h1 align="center">✨ LEARNING THE WAY TO TOMORROW BY SOLUTIONS TO CODE TODAY ✨</h1>
-<h3 align="center">Hi 👋, I'm <b>Khánh Minh</b></h3>
-<h4 align="center">Software Engineering Student @ PTIT | Full-Stack Developer | Data & AI Enthusiast</h4>
+<p align="center">
+  <img src="./banner.png" alt="Profile banner" style="max-width:100%; border-radius:12px;">
+</p>
 
----
+<h1 align="center"><b>Hi 👋, I'm Khanh!</b></h1>
+<h3 align="center">Software Engineering Student at PTIT | Full-Stack Developer | Data & AI Enthusiast</h3>
 
-### 💡 Quick Intro
-I'm a software engineering student passionate about building impactful apps and exploring data-driven solutions.  
-Currently focused on **Full-Stack Web Development**, **Machine Learning**, and **Automation Testing**.
+<hr style="border: 2.5px solid #ffffff; border-radius:999px;">
 
-📌 **Portfolio:** [Coming soon!]  
-📧 **Email:** [minhkhanh@example.com](mailto:minhkhanh@example.com)  
-📍 **Based in:** Ho Chi Minh City, Vietnam  
+<h3>👾 About me</h3>
+<hr style="border: 1px solid #ffffff; opacity: 0.6;">
 
----
+<p>
+I'm Nguyen Minh Khanh, a third-year student majoring in Information Technology (IT) at the Posts and Telecommunications Institute of Technology (PTIT). I'm passionate about exploring how to build effective software systems and am currently focused on strengthening my foundational knowledge in Object-Oriented Programming (OOP), Data Structures & Algorithms, and Web Application Development.
+</p>
 
-### 🧠 Currently Learning
-- 🌱 Java Spring Boot, React, and RESTful APIs  
-- 🤖 AI & Machine Learning basics (Python, scikit-learn)  
-- 🧩 Testing tools (JUnit, Selenium WebDriver)  
-- 🗄️ Database Design & SQL Optimization  
+<ul>
+  <li>🔭 <b>Currently</b>: Completing core coursework and actively seeking Front-end or Back-end internship opportunities for the upcoming year.</li>
+  <li>🌱 <b>Learning</b>: Deep diving into <i>ReactJS, Python/Django, Java Spring Boot</i> and exploring Cloud Computing technologies (AWS/Azure/GCP).</li>
+  <li>🛠️ <b>Interests</b>: Full-stack Web Development, Artificial Intelligence (AI), and IoT integration.</li>
+  <li>📫 <b>Connect</b>: 
+    <a href="mailto:n23dccn165@student.ptithcm.edu.vn">n23dccn165@student.ptithcm.edu.vn</a>
+  </li>
+</ul>
 
----
+<hr style="border: 2.5px solid #ffffff; border-radius:999px;">
 
-### 🌐 Connect & Social
+<!-- 🔗 Connect & Social -->
+<h3>🔗 Connect & Social</h3>
+<hr style="border: 1px solid #ffffff; opacity: 0.6;">
+
+<!-- Nút social: GitHub, LinkedIn, TikTok, Facebook, Instagram, Mail -->
 <p align="left">
-  <a href="mailto:minhkhanh@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/minhkhanh-ptiter" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://facebook.com/minhkhanh.ptit" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" />
-  </a>
+  <!-- GitHub -->
   <a href="https://github.com/minhkhanh-ptiter" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+  </a>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/kh%C3%A1nh-nguy%E1%BB%85n-minh-488a0b324/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
+  </a>
+  <!-- TikTok -->
+  <a href="https://www.tiktok.com/@khnhminh43?_t=ZS-90NZAdamBSp&_r=1" target="_blank">
+    <img alt="TikTok" src="https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white" />
+  </a>
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/nguyen.khanh.741879?mibextid=ZbWKwL" target="_blank">
+    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" />
+  </a>
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/minhkhanhng/" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" />
+  </a>
+  <!-- Mail -->
+  <a href="mailto:n23dccn165@student.ptithcm.edu.vn">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
   </a>
 </p>
 

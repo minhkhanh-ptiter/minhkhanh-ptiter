@@ -22,9 +22,30 @@
 </h3>
 
 <p align="center">
-  🌏 HCMC • 🎨 Genshin-themed UI • 💼 Seeking Frontend Internship (FPT Japan)
+  🌏 HCMC • 💼 Seeking Frontend Internship
 </p>
 
+<!-- Badge wall -->
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=minhkhanh-ptiter&label=Profile%20views&color=0e75b6&style=for-the-badge"
+    alt="Profile views counter"
+  />
+
+  <a href="https://github.com/minhkhanh-ptiter" target="_blank">
+    <img
+      src="https://img.shields.io/github/stars/minhkhanh-ptiter?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github"
+      alt="GitHub stars"
+    />
+  </a>
+
+  <a href="mailto:n23dccn165@student.ptithcm.edu.vn">
+    <img
+      src="https://img.shields.io/badge/Email-your.name%40domain.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email me"
+    />
+  </a>
+</p>
 
 
 <h3 align="center">Software Engineering Student at PTIT | Full-Stack Developer | Data & AI Enthusiast</h3>
@@ -161,7 +182,7 @@ I'm Nguyen Minh Khanh, a third-year student majoring in Information Technology (
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=9370DB&height=60&section=footer" width="100%" alt="divider"/>
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0EA5E9&height=60&section=footer" width="100%" alt="divider"/>
   <br/>
   <i>Made with ❤️ •  Minh Khanh</b></i> ☕
 </p>

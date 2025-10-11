@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="./banner.png" alt="Profile banner" style="max-width:100%; border-radius:12px;">
+  <img src="./banner.jpg" alt="Profile banner" style="max-width:100%; border-radius:12px;">
 </p>
 
 <h1 align="center"><b>Hi 👋, I'm Khanh!</b></h1>

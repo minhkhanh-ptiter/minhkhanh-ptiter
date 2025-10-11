@@ -1,9 +1,32 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="./banner.jpg" alt="Profile banner" style="max-width:100%; border-radius:12px;">
+  <img src="./banner.png" alt="Profile banner" style="max-width:100%; border-radius:12px;">
 </p>
 
-<h1 align="center"><b>Hi 👋, I'm Khanh!</b></h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi%20%F0%9F%91%8B%2C%20I'm%20MINH%20KHANH&fontAlign=50&fontAlignY=40&color=0:2575fc,100:6a11cb&fontColor=ffffff" />
+</p>
+<h3 align="center">
+  Xin chào •
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=22&duration=2000&pause=900&center=false&vCenter=true&repeat=true&width=160&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF&color=3B82F6FF"
+    alt="こんにちは typing"
+    style="vertical-align:middle; margin:0 6px;"
+  />
+  • Hello •
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=22&duration=2000&pause=900&center=false&vCenter=true&repeat=true&width=180&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94&color=3B82F6FF"
+    alt="안녕하세요 typing"
+    style="vertical-align:middle; margin:0 6px;"
+  />
+</h3>
+
+<p align="center">
+  🌏 HCMC • 🎨 Genshin-themed UI • 💼 Seeking Frontend Internship (FPT Japan)
+</p>
+
+
+
 <h3 align="center">Software Engineering Student at PTIT | Full-Stack Developer | Data & AI Enthusiast</h3>
 
 <hr style="border: 2.5px solid #ffffff; border-radius:999px;">
@@ -138,5 +161,7 @@ I'm Nguyen Minh Khanh, a third-year student majoring in Information Technology (
 ---
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9370DB&height=60&section=footer" width="100%" alt="divider"/>
+  <br/>
   <i>Made with ❤️ •  Minh Khanh</b></i> ☕
 </p>

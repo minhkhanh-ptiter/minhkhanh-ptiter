@@ -154,14 +154,13 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=minhkhanh-ptiter&show_icons=true&theme=algolia" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhkhanh-ptiter&layout=compact&theme=algolia" alt="Top languages" />
+  <img src="https://streak-stats.demolab.com?user=minhkhanh-ptiter&theme=algolia&hide_border=true" alt="GitHub Streak" />
 </p>
-<p align="center">
+<p>
   <img
-    src="https://streak-stats.demolab.com?user=minhkhanh-ptiter&theme=algolia&hide_border=true"
-    alt="GitHub Streak" />
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhkhanh-ptiter&layout=compact&theme=algolia" alt="Top languages" />
 </p>
 
 ---

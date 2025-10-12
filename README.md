@@ -132,7 +132,7 @@
   C++ console app with search, sort, accent-insensitive comparisons using ICU.  
   *Tech:* C++, ICU, Linked List, CSV I/O.
 
-- 🌐 **[Portfolio Web (in progress)](https://github.com/minhkhanh-ptiter/Portfolio)**  
+- 🌐 **[Portfolio Web (in progress)](https://github.com/minhkhanh-ptiter/MyPortfolio)**  
   Personal portfolio site to showcase projects and achievements.  
   *Tech:* HTML, CSS, JS, React.
 

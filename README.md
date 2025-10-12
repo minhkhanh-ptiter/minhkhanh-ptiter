@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="./banner.png" alt="Profile banner" style="max-width:100%; border-radius:12px;">
+  <img src="https://raw.githubusercontent.com/minhkhanh-ptiter/minhkhanh-ptiter/main/banner.png" alt="Profile banner" style="max-width:100%; border-radius:12px;">
 </p>
 
 <p align="center">
@@ -41,7 +41,7 @@
 
   <a href="mailto:n23dccn165@student.ptithcm.edu.vn">
     <img
-      src="https://img.shields.io/badge/Email-your.name%40domain.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      src="https://img.shields.io/badge/n23dccn165@student.ptithcm.edu.vn-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
       alt="Email me"
     />
   </a>
@@ -55,25 +55,40 @@
 <h2>👾 About me</h2>
 
 <p>
-I'm Nguyen Minh Khanh, a third-year student majoring in Information Technology (IT) at the Posts and Telecommunications Institute of Technology (PTIT). I'm passionate about exploring how to build effective software systems and am currently focused on strengthening my foundational knowledge in Object-Oriented Programming (OOP), Data Structures & Algorithms, and Web Application Development.
+  I'm <b>Nguyen Minh Khanh</b>, a third-year <b>Information Technology</b> student at
+  <b>PTIT (Ho Chi Minh City)</b>. I love building practical, well-structured software and I'm currently
+  doubling down on fundamentals: <i>Object-Oriented Programming (OOP)</i>, <i>Data Structures & Algorithms</i>,
+  and <i>Web Application Development</i>.
 </p>
 
 <ul>
-  <li>🔭 <b>Currently</b>: Completing core coursework and actively seeking Front-end or Back-end internship opportunities for the upcoming year.</li>
-  <li>🌱 <b>Learning</b>: Deep diving into <i>ReactJS, Python/Django, Java Spring Boot</i> and exploring Cloud Computing technologies (AWS/Azure/GCP).</li>
+  <li>🔭 <b>Currently</b>: Completing core coursework and actively seeking <b>Frontend/Backend internship</b> opportunities.</li>
+  <li>🌱 <b>Learning</b>: <i>ReactJS</i>, <i>Python/Django</i>, <i>Java Spring Boot</i>, and exploring <i>Cloud</i> (AWS / Azure / GCP).</li>
   <li>🛠️ <b>Interests</b>: Full-stack Web Development, Artificial Intelligence (AI), and IoT integration.</li>
-  <li>📫 <b>Connect</b>: 
-    <a href="mailto:n23dccn165@student.ptithcm.edu.vn">n23dccn165@student.ptithcm.edu.vn</a>
-  </li>
+  <li>🧩 <b>Strengths</b>: Clean code, problem solving, fast learning, and UI/UX polish.</li>
 </ul>
+
+<!-- Languages -->
+<h3 align="center" style="margin-bottom:10px;">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=22&duration=2000&pause=900&center=true&vCenter=true&repeat=true&width=320&lines=%F0%9F%8C%90+Languages"
+    alt="Languages typing"
+    style="vertical-align:middle;"
+  />
+</h3>
+
+<p align="center" style="white-space:nowrap;">
+  <kbd style="padding:6px 10px;border-radius:10px;">🇻🇳 Vietnamese · Native</kbd>
+  <kbd style="padding:6px 10px;border-radius:10px;">🇯🇵 Japanese · Beginner</kbd>
+  <kbd style="padding:6px 10px;border-radius:10px;">🇺🇸 English · Upper Intermediate</kbd>
+  <kbd style="padding:6px 10px;border-radius:10px;">🇰🇷 Korean · Beginner</kbd>
+</p>
+
 
 <hr style="border: 2.5px solid #ffffff; border-radius:999px;">
 
-<!-- 🔗 Connect & Social -->
 <h3>🔗 Connect & Social</h3>
-<hr style="border: 1px solid #ffffff; opacity: 0.6;">
 
-<!-- Nút social: GitHub, LinkedIn, TikTok, Facebook, Instagram, Mail -->
 <p align="left">
   <!-- GitHub -->
   <a href="https://github.com/minhkhanh-ptiter" target="_blank">
@@ -109,7 +124,7 @@ I'm Nguyen Minh Khanh, a third-year student majoring in Information Technology (
 ---
 
 ### 🚀 Featured Projects
-- 🎬 **[D-Cine — Cinema Management System](https://github.com/minhkhanh-ptiter/DCineProject)**  
+- 🎬 **[D-Cine — Cinema Management System (comming soon)](https://github.com/minhkhanh-ptiter/DCineProject)**  
   A Java + MySQL app for cinema operations, ticketing, and revenue reports.  
   *Tech:* Java, MySQL, Swing, JDBC, MVC pattern.
 
@@ -174,10 +189,26 @@ I'm Nguyen Minh Khanh, a third-year student majoring in Information Technology (
 
 ---
 
-### 🤝 How to Collaborate
-- 🧩 Open to teamwork on Java, C++, and web projects.  
-- 📫 Contact via [email](mailto:minhkhanh@example.com) for collaborations or student events.  
-- ⭐ Feel free to **star** my repositories if you find them useful!  
+<div align="center">
+
+  <h3>🤝 How to Collaborate</h3>
+  <p>🧩 Open to teamwork on <b>Java</b>, <b>C++</b>, and <b>Web</b> projects.</p>
+
+  <p>
+    <a href="mailto:n23dccn165@student.ptithcm.edu.vn" title="Student email">
+      <img alt="Student Email"
+           src="https://img.shields.io/badge/Student%20Email-n23dccn165%40student.ptithcm.edu.vn-informational?style=for-the-badge" />
+    </a>
+    &nbsp;
+    <a href="mailto:minhkhanh2005py@gmail.com" title="Personal email">
+      <img alt="Personal Email"
+           src="https://img.shields.io/badge/Personal%20Email-minhkhanh2005py%40gamil.com-blue?style=for-the-badge" />
+    </a>
+  </p>
+
+  <p>⭐ Feel free to <b>star</b> my repositories if you find them useful!</p>
+
+</div>
 
 ---
 
